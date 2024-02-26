@@ -11,7 +11,7 @@ class Caneta {
             echo "Estou tampada.....<br>";
         }
         else{
-        echo "Estou rabiscando.....";
+            echo "Estou rabiscando.....";
         }
     }
     function tampar(){
